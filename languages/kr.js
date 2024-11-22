@@ -50,30 +50,30 @@
             },
             dialog : {
                 link : {
-                    title    : "Link",
-                    url      : "Address",
-                    urlTitle : "Title",
-                    urlEmpty : "Error: Please fill in the link address."
+                    title    : "링크",
+                    url      : "url주소",
+                    urlTitle : "url제목",
+                    urlEmpty : "오류: 링크 주소 칸을 채워주세요."
                 },
                 referenceLink : {
-                    title    : "Reference link",
-                    name     : "Name",
-                    url      : "Address",
-                    urlId    : "ID",
-                    urlTitle : "Title",
-                    nameEmpty: "Error: Reference name can't be empty.",
-                    idEmpty  : "Error: Please fill in reference link id.",
-                    urlEmpty : "Error: Please fill in reference link url address."
+                    title    : "참조 링크",
+                    name     : "이름",
+                    url      : "url주소",
+                    urlId    : "urlID",
+                    urlTitle : "url제목",
+                    nameEmpty: "에러: 참조링크를 비워둘 수 없습니다.",
+                    idEmpty  : "에러: 참조링크 id를 채워주세요.",
+                    urlEmpty : "에러: 참조링크 url주소를 채워주세요."
                 },
                 image : {
-                    title    : "Image",
-                    url      : "Address",
-                    link     : "Link",
-                    alt      : "Title",
-                    uploadButton     : "Upload",
-                    imageURLEmpty    : "Error: picture url address can't be empty.",
-                    uploadFileEmpty  : "Error: upload pictures cannot be empty!",
-                    formatNotAllowed : "Error: only allows to upload pictures file, upload allowed image file format:"
+                    title    : "이미지",
+                    url      : "이미지url주소",
+                    link     : "이미지링크",
+                    alt      : "이미지제목",
+                    uploadButton     : "업로드",
+                    imageURLEmpty    : "에러: 이미지 url주소는 비워둘 수 없습니다.",
+                    uploadFileEmpty  : "에러: 업로드 할 사진을 비워둘 수 없습니다.",
+                    formatNotAllowed : "에러: 이미지 파일만 업로드 할 수 있습니다, 업로드 가능한 이미지 파일의 형식:"
                 },
                 preformattedText : {
                     title             : "Preformatted text / Codes", 
